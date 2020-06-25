@@ -12,3 +12,13 @@ The project turned out pretty well.
 I even added my own things to the game.
 
 In the game, you will have to jump or duck to not get hit by the incoming robots.
+
+[Penguin Jump](https://scratch.mit.edu/projects/120165718/):
+
+This game is the first fun game I made.
+
+I coded variables, a scoreboard, random spawns in the game.
+
+You control a penguin and let it jump to catch fish and earn points.
+
+You need to collect fish, dodge sharks and not die.
