@@ -6,6 +6,7 @@ I found it very fun as I could create different games.
 [Nanonauts](https://scratch.mit.edu/projects/120165718/):
 
 This project was from a book that taught JavaScript.
+
 Since I did not have the applications to code it in Javascript, I made this project in Scratch.
 
 The project turned out pretty well.
